@@ -4,6 +4,12 @@ This plugin generates a visually hidden table to make your Chartist charts acces
 
 Please visit http://gionkunz.github.io/chartist-js/plugins.html for more information.
 
+## Installation
+
+```
+bower install chartist-plugin-accessibility --save
+```
+
 ## Available options and their defaults
 
 ```javascript
